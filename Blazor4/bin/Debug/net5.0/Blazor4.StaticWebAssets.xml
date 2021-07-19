@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Monang Swanto\source\repos\Blazor4\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/Identity" Path="C:\Users\Monang Swanto\.nuget\packages\microsoft.aspnetcore.identity.ui\5.0.8\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/MudBlazor" Path="C:\Users\Monang Swanto\.nuget\packages\mudblazor\5.0.15\build\..\staticwebassets\" />
+</StaticWebAssets>
